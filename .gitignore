@@ -1,0 +1,5 @@
+.bsp/*
+.gradle/*
+.idea/*
+project/*
+target/*
